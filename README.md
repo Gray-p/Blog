@@ -1,3 +1,8 @@
+---
+layout : post
+title : Home
+---
+
 # Joe的日常
 这是主页文档
 
